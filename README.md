@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Onion-L.;You're+very+welcome+here!)](https://git.io/typing-svg)
 
 I'm Onion-L, a student, frontend enthusiasts, INFJ.
