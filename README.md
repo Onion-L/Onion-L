@@ -1,15 +1,14 @@
-<div align="center">
+![image](https://github.com/Onion-L/Onion-L/assets/71209582/7ecf5c65-d1d7-42d5-a2d3-f3582dec8a0c)<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Console.log(%22Hello+World%22)" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+  <img alt-"html5" src="https://th.bing.com/th/id/R.1745cda3c365eb6dfe80dfd3f6115dd4?rik=qxTso9l4s6jgFA&pid=ImgRaw&r=0" width="100" title="html">
+  <img alt="css" src="https://th.bing.com/th/id/R.846eafe34ddf5c4b45514902fcf52ad9?rik=KN7M0sj1sGZg8g&pid=ImgRaw&r=0" width="100" title="css">
+  <img alt="VSCode" src="https://th.bing.com/th/id/R.8304135eb89c0dae5aedf6219eb179bf?rik=%2bkxdUsO8G3F4NQ&pid=ImgRaw&r=0" width="100" title="vscode">
   <img alt="javascript" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png" width="100" title="javascript">
-  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+  <img alt="vue" src="https://vetores.org/wp-content/uploads/vue-js.png" width="100" title="vue">
+  <img alt="node" src="https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png" width="100" title="node">
 </div>
 ## Hi there 👋
 <p>I'm Onion-L, a student, frontend enthusiasts, INFJ.</p>
