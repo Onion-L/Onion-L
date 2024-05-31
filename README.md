@@ -8,7 +8,7 @@
 
 🧰Tool&Technologies: 
   <div>
-    <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/html"></picture></a>
+    <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/html5"></picture></a>
     
     <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/javascript"></picture></a>
   </div>
