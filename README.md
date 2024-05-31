@@ -7,8 +7,8 @@
 <p>I'm Onion-L, Software Engineering student, frontend enthusiasts.</p>
 <p>I like open source and hope to contribute to an open source project one day.</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Onion-L&theme=panda&hide_border=true)](https://github.com/Onion-L)
 ![Onion-L's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onion-L&show_icons=true&theme=panda&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Onion-L&theme=panda&hide_border=true)](https://github.com/Onion-L)
 
 
 ## 🧰Tool&Technologies: 
