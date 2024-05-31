@@ -1,4 +1,4 @@
-![image](https://github.com/Onion-L/Onion-L/assets/71209582/7ecf5c65-d1d7-42d5-a2d3-f3582dec8a0c)<div align="center">
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Console.log(%22Hello+World%22)" alt="Typing SVG" /></a>
 </div>
 ## Hi there 👋
