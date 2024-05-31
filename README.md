@@ -5,8 +5,10 @@
 ## Hi there 👋
 <p>I'm Onion-L, Software Engineering student, frontend enthusiasts.</p>
 <p>I like open source and hope to contribute to an open source project one day.</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Onion-L&theme=panda&hide_border=true)](https://github.com/Onion-L)
+![Onion-L's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onion-L&show_icons=true&theme=panda&hide_border=true)
 
-🧰Tool&Technologies: 
+## 🧰Tool&Technologies: 
   <div>
     <img alt="HTML5" title="HTML5" height="48" width="48" src="https://cdn.simpleicons.org/html5">
     <img alt="CSS3" title="CSS3" height="48" width="48" src="https://cdn.simpleicons.org/css3">
@@ -18,8 +20,7 @@
   </div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Onion-L&theme=panda&hide_border=true)](https://github.com/Onion-L)
-![Onion-L's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onion-L&show_icons=true&theme=panda&hide_border=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onion-L&hide=css,html&layout=compact)](https://github.com/Onion-L)
 
 
