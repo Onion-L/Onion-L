@@ -20,8 +20,6 @@
     <img alt="Nodejs" title="Nodejs" height="48" width="48" src="https://cdn.simpleicons.org/nodedotjs">
   </div>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onion-L&hide=css,html&layout=compact)](https://github.com/Onion-L)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onion-L&theme=panda&hide=css,html&layout=compact)](https://github.com/Onion-L)
 
 
