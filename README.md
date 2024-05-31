@@ -3,8 +3,18 @@
 </div>
 
 ## Hi there 👋
-<p>I'm Onion-L, a student, frontend enthusiasts, INFJ.</p>
-I like open source and hope to contribute to an open source project one day.
+<p>I'm Onion-L, Software Engineering student, frontend enthusiasts.</p>
+<p>I like open source and hope to contribute to an open source project one day.</p>
+
+🧰Tool&Technologies: 
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
+    </picture>
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
+    <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/npm">
+  </div>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Onion-L&theme=panda&hide_border=true)](https://github.com/Onion-L)
