@@ -8,6 +8,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Onion-L&theme=panda&hide_border=true)](https://github.com/Onion-L)
 ![Onion-L's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onion-L&show_icons=true&theme=panda&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onion-L&theme=panda&hide_border=true&layout=compact)](https://github.com/Onion-L)
+
 
 ## 🧰Tool&Technologies: 
   <div align="center">
@@ -20,6 +22,5 @@
     <img alt="VSCode" title="VSCode" height="48" width="48" src="https://cdn.simpleicons.org/visualstudiocode">
   </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onion-L&theme=panda&hide_border=true&layout=compact)](https://github.com/Onion-L)
 
 
