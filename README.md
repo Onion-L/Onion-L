@@ -1,6 +1,7 @@
 # Hi there 👋
 <p>I'm Onion-L, Software Engineering student, frontend enthusiasts.</p>
 <p>I like open source and hope to contribute to an open source project one day.</p>
+<p>I am currently learning Rust🤯</p>
 
 ## 🧰Tool&Technologies: 
   <div align="center">
