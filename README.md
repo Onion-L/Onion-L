@@ -13,8 +13,9 @@
     <img alt="Nodejs" title="Nodejs" height="56" width="56" src="https://cdn.simpleicons.org/nodedotjs">
     <img alt="Nodejs" title="Nodejs" height="56" width="56" src="https://cdn.simpleicons.org/react">
   </div>
+  
 ## Connect with me:
-<div>
+<div align="center">
 <a href="https://www.linkedin.com/in/xiang-li-22b9a420b/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maxamed-maxamed-a87298151/" height="30" width="40" />
 </a>
