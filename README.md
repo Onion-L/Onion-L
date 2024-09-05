@@ -3,9 +3,6 @@
 <p>I like open source and hope to contribute to an open source project one day.</p>
 <p>I am currently learning Rust🤯</p>
 
-## Top languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onion-L&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🧰Tool&Technologies: 
   <div align="center">
     <img alt="HTML5" title="HTML5" height="56" width="56" src="https://cdn.simpleicons.org/html5">
