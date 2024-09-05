@@ -11,7 +11,9 @@
     <img alt="TypeScript" title="TypeScript" height="56" width="56" src="https://cdn.simpleicons.org/typescript">
     <img alt="Vue" title="Vue" height="56" width="56" src="https://cdn.simpleicons.org/vuedotjs">
     <img alt="Nodejs" title="Nodejs" height="56" width="56" src="https://cdn.simpleicons.org/nodedotjs">
-    <img alt="Nodejs" title="Nodejs" height="56" width="56" src="https://cdn.simpleicons.org/react">
+    <img alt="Reactjs" title="Reactjs" height="56" width="56" src="https://cdn.simpleicons.org/react">
+    <img alt="MongoDB" title="MongoDB" height="56" width="56" src="https://cdn.simpleicons.org/mongodb">
+    
   </div>
   
 ## Connect with me:
