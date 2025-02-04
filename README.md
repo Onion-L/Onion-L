@@ -1,7 +1,8 @@
 # Hi there 👋
 <p>I'm Onion-L, Software Engineering student, frontend enthusiasts.</p>
 <p>I like open source and hope to contribute to an open source project one day.</p>
-<del>I am currently learning Rust🤯</del>(Maybe next time🥲)
+<p><del>I am currently learning Rust🤯</del>(Maybe next time🥲)</p>
+<p>This is my second time learning Rust, wish me luck 🤞 .</p>
 
 ## Top languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onion-L&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
